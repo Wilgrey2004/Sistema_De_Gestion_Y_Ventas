@@ -1,0 +1,9 @@
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Opcionalmente, ignorar logs y otros temporales
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+.DS_Store
